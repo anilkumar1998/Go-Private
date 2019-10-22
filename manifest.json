@@ -1,0 +1,16 @@
+{
+    "name": "Go Private",
+    "version": "1.0",
+    "description": "It opens the current tab url in the incognito mode",
+    "manifest_version": 2,
+    "permissions": ["browser", "tabs", "activeTab"],
+    "icons": {
+        "128": "icon.png",
+        "48": "icon2.png",
+        "16": "icon1.png"
+    },
+    "browser_action":{
+        "default_icon": "icon1.png",
+        "default_popup": "popup.html"
+    }
+}
