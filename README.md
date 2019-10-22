@@ -24,6 +24,6 @@ Future work:
 4. Make a shortcut for the extension (i.e., when this keyboard shortcut is used, incognito window should appear)
 
 
-** Feel free to give suggestions on the code (or) future work etc **
+**Feel free to give suggestions on the code (or) future work etc**
 
 
