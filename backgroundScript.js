@@ -14,6 +14,6 @@ function openIncognito()
 
 document.addEventListener('DOMContentLoaded', function()
 {
-    document.getElementById("incognitoButton").addEventListener("click", getCurrentTabUrl);
+    document.getElementById("incognitoButton").addEventListener("click", openIncognito);
 });
 
